@@ -1,0 +1,6 @@
+github.com/omniboost/schema v1.1.1-0.20191030093734-a170fe1a7240 h1:+yAcEWiT5FCKmD9HmerCkxSXRO/9uVQ88gQwvJbt6LA=
+github.com/omniboost/schema v1.1.1-0.20191030093734-a170fe1a7240/go.mod h1:9fjiXyATsFBndd1ZtrF4KJOs/VwBFmhX4N9yblkz+Jg=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+gopkg.in/guregu/null.v3 v3.5.0 h1:xTcasT8ETfMcUHn0zTvIYtQud/9Mx5dJqD554SZct0o=
+gopkg.in/guregu/null.v3 v3.5.0/go.mod h1:E4tX2Qe3h7QdL+uZ3a0vqvYwKQsRSQKM5V4YltdgH9Y=
